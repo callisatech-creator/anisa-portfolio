@@ -84,7 +84,6 @@ function App() {
       description: "During my internship at Logitech, I spearheaded the creation of a comprehensive AI Hackathon Cheat Sheet, a strategic tool designed to demystify AI's role in creative teamwork and empower teams to effectively integrate AI into their projects from conception to completion. This initiative focused on practical applications, showcasing how AI can enhance brainstorming, video editing, app mockups, and slide generation. I navigated challenges such as managing AI hallucinations and integrating AI tools with existing enterprise software, ultimately learning the critical importance of prompt engineering, viewing AI as a copilot, and emphasizing continuous iteration and evaluation in innovation. This experience highlights my ability to anticipate needs, drive momentum, and deliver resourceful solutions in a fast-paced, innovation-driven environment.",
       category: "Internship & Project",
       tags: ["Logitech", "Hackathon", "UX Design", "AI", "Prompt Engineering"],
-      link: "https://sites.google.com/d/19mpdamouEvqYKloM-5YhRDnigEbXsDAY/p/15Gh19VnbQCx1TyMrQ4_zucN-w0C-boWD/edit?authuser=2"
     },
     {
       title: "TeachTab 360: VR Education Platform",
